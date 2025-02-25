@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nom": "Jean Dupont",
+    "email": "jean.dupont@example.com",
+    "motDePasse": "password123"
+  },
+  {
+    "id": 2,
+    "nom": "Alice Martin",
+    "email": "alice.martin@example.com",
+    "motDePasse": "securepass"
+  }
+]

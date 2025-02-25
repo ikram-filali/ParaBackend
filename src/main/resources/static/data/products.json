@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Crème Visage Hydratante",
+    "description": "Crème hydratante pour le visage, adaptée aux peaux sèches.",
+    "price": 25.99,
+    "imageUrl": "/images/products/creme-visage.jpg",
+    "stock": 15,
+    "parentCategory": "Beauté & Hygiène",
+    "subCategory": "Visage"
+  },
+  {
+    "id": 2,
+    "name": "Gel Nettoyant Visage",
+    "description": "Gel nettoyant doux pour le visage, élimine les impuretés.",
+    "price": 18.50,
+    "imageUrl": "/images/products/gel-nettoyant.jpg",
+    "stock": 20,
+    "parentCategory": "Beauté & Hygiène",
+    "subCategory": "Visage"
+  },
+  {
+    "id": 3,
+    "name": "Masque Purifiant",
+    "description": "Masque purifiant pour éliminer l'excès de sébum.",
+    "price": 22.99,
+    "imageUrl": "/images/products/masque-purifiant.jpg",
+    "stock": 10,
+    "parentCategory": "Beauté & Hygiène",
+    "subCategory": "Visage"
+  },
+  {
+    "id": 4,
+    "name": "Shampooing Revitalisant",
+    "description": "Shampooing pour cheveux ternes, apporte brillance et vitalité.",
+    "price": 14.99,
+    "imageUrl": "/images/products/shampooing.jpg",
+    "stock": 30,
+    "parentCategory": "Beauté & Hygiène",
+    "subCategory": "Autres catégories"
+  },
+  {
+    "id": 5,
+    "name": "Après-Shampooing Nourrissant",
+    "description": "Après-shampooing nourrissant pour des cheveux doux et soyeux.",
+    "price": 16.99,
+    "imageUrl": "/images/products/apres-shampooing.jpg",
+    "stock": 25,
+    "parentCategory": "Beauté & Hygiène",
+    "subCategory": "Autres catégories"
+  },
+  {
+    "id": 6,
+    "name": "Gel Douche Revigorant",
+    "description": "Gel douche rafraîchissant pour une hygiène corporelle optimale.",
+    "price": 12.50,
+    "imageUrl": "/images/products/gel-douche.jpg",
+    "stock": 40,
+    "parentCategory": "Beauté & Hygiène",
+    "subCategory": "Spécifiques"
+  },
+  {
+    "id": 7,
+    "name": "Complément Vitamine C",
+    "description": "Complément alimentaire pour renforcer le système immunitaire.",
+    "price": 19.99,
+    "imageUrl": "/images/products/vitamine-c.jpg",
+    "stock": 50,
+    "parentCategory": "Santé",
+    "subCategory": "Alimentation"
+  },
+  {
+    "id": 8,
+    "name": "Infusion Relaxante",
+    "description": "Infusion à base de plantes pour calmer le stress quotidien.",
+    "price": 9.99,
+    "imageUrl": "/images/products/infusion-relaxante.jpg",
+    "stock": 35,
+    "parentCategory": "Santé",
+    "subCategory": "Maux du quotidien"
+  },
+  {
+    "id": 9,
+    "name": "Huile d'Eucalyptus",
+    "description": "Huile essentielle pour soulager les maux et favoriser la détente.",
+    "price": 15.50,
+    "imageUrl": "/images/products/huile-eucalyptus.jpg",
+    "stock": 20,
+    "parentCategory": "Santé",
+    "subCategory": "Herboristerie"
+  },
+  {
+    "id": 10,
+    "name": "Biberon Anti-colique",
+    "description": "Biberon spécialement conçu pour réduire les coliques des bébés.",
+    "price": 29.99,
+    "imageUrl": "/images/products/biberon.jpg",
+    "stock": 15,
+    "parentCategory": "Bébé & Maman",
+    "subCategory": "Puériculture"
+  },
+  {
+    "id": 11,
+    "name": "Lingettes Douces Bébé",
+    "description": "Lingettes hypoallergéniques pour le change et l'hygiène de bébé.",
+    "price": 7.99,
+    "imageUrl": "/images/products/lingettes-bebe.jpg",
+    "stock": 60,
+    "parentCategory": "Bébé & Maman",
+    "subCategory": "Hygiène"
+  },
+  {
+    "id": 12,
+    "name": "Crème Change",
+    "description": "Crème protectrice pour le change, prévient les irritations.",
+    "price": 8.50,
+    "imageUrl": "/images/products/creme-change.jpg",
+    "stock": 45,
+    "parentCategory": "Bébé & Maman",
+    "subCategory": "Change"
+  },
+  {
+    "id": 13,
+    "name": "Complément Minceur",
+    "description": "Complément alimentaire pour favoriser la perte de poids.",
+    "price": 24.99,
+    "imageUrl": "/images/products/complement-minceur.jpg",
+    "stock": 30,
+    "parentCategory": "Compléments alimentaires",
+    "subCategory": "Minceur"
+  },
+  {
+    "id": 14,
+    "name": "Complément Bien-être",
+    "description": "Formule pour améliorer le bien-être général.",
+    "price": 21.99,
+    "imageUrl": "/images/products/complement-bien-etre.jpg",
+    "stock": 40,
+    "parentCategory": "Compléments alimentaires",
+    "subCategory": "Bien-être"
+  },
+  {
+    "id": 15,
+    "name": "Offre Spéciale - Pack Soin",
+    "description": "Pack promotionnel regroupant plusieurs produits de soin.",
+    "price": 49.99,
+    "imageUrl": "/images/products/pack-soin.jpg",
+    "stock": 10,
+    "parentCategory": "Promotions & Nouveautés",
+    "subCategory": ""
+  },
+  {
+    "id": 16,
+    "name": "Cosmétiques Bio",
+    "description": "Gamme de cosmétiques certifiés bio et naturels.",
+    "price": 34.99,
+    "imageUrl": "/images/products/cosmetiques-bio.jpg",
+    "stock": 25,
+    "parentCategory": "Bio & Naturel",
+    "subCategory": "Cosmétiques"
+  },
+  {
+    "id": 17,
+    "name": "Alimentation Bio",
+    "description": "Produits alimentaires bio pour une vie saine.",
+    "price": 27.50,
+    "imageUrl": "/images/products/alimentation-bio.jpg",
+    "stock": 20,
+    "parentCategory": "Bio & Naturel",
+    "subCategory": "Alimentation"
+  },
+  {
+    "id": 18,
+    "name": "Complément Immunité",
+    "description": "Formule pour renforcer le système immunitaire.",
+    "price": 29.99,
+    "imageUrl": "/images/products/complement-immunite.jpg",
+    "stock": 30,
+    "parentCategory": "Compléments alimentaires",
+    "subCategory": "Renforcement immunitaire"
+  },
+  {
+    "id": 19,
+    "name": "Marque A-derma Soin",
+    "description": "Produit de la marque A-derma, pour le soin de la peau.",
+    "price": 39.99,
+    "imageUrl": "/images/products/a-derma-soin.jpg",
+    "stock": 15,
+    "parentCategory": "Marques",
+    "subCategory": "A-derma"
+  },
+  {
+    "id": 20,
+    "name": "Marque La Roche Posay",
+    "description": "Soin emblématique de la marque La Roche Posay.",
+    "price": 44.99,
+    "imageUrl": "/images/products/la-roche-posay.jpg",
+    "stock": 10,
+    "parentCategory": "Marques",
+    "subCategory": "La Roche Posay"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "nom": "Beauté & Hygiène",
+    "description": "Produits pour le soin, l'hydratation et l'esthétique.",
+    "subCategories": [
+      {
+        "nom": "Visage",
+        "subItems": ["Acné", "Masques", "Soins hydratants", "Soins anti-âge"]
+      },
+      {
+        "nom": "Autres catégories",
+        "subItems": ["Corps", "Cheveux", "Maquillage", "Soins Solaires"]
+      },
+      {
+        "nom": "Spécifiques",
+        "subItems": ["Entretien et hygiène de la maison"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nom": "Santé",
+    "description": "Produits pour améliorer votre bien-être et votre santé.",
+    "subCategories": [
+      { "nom": "Alimentation" },
+      { "nom": "Maux du quotidien" },
+      { "nom": "Herboristerie" },
+      { "nom": "Aromathérapie" },
+      { "nom": "Soins premiers secours" }
+    ]
+  },
+  {
+    "id": 3,
+    "nom": "Bébé & Maman",
+    "description": "Produits pour la puériculture, l'alimentation et le soin des bébés.",
+    "subCategories": [
+      { "nom": "Puériculture" },
+      { "nom": "Alimentation bébé" },
+      { "nom": "Hygiène" },
+      { "nom": "Soins" },
+      { "nom": "Change" }
+    ]
+  },
+  {
+    "id": 4,
+    "nom": "Compléments alimentaires",
+    "description": "Produits pour le bien-être, la minceur et le renforcement immunitaire.",
+    "subCategories": [
+      { "nom": "Bien-être" },
+      { "nom": "Minceur" },
+      { "nom": "Renforcement immunitaire" }
+    ]
+  },
+  {
+    "id": 5,
+    "nom": "Promotions & Nouveautés",
+    "description": "Offres spéciales et produits récemment ajoutés.",
+    "subCategories": []
+  },
+  {
+    "id": 6,
+    "nom": "Bio & Naturel",
+    "description": "Produits certifiés bio et naturels pour une vie saine.",
+    "subCategories": [
+      { "nom": "Cosmétiques" },
+      { "nom": "Alimentation" },
+      { "nom": "Santé" }
+    ]
+  },
+  {
+    "id": 7,
+    "nom": "Marques",
+    "description": "Découvrez nos marques phares.",
+    "subCategories": [
+      { "nom": "A-derma" },
+      { "nom": "Arkopharma" },
+      { "nom": "Avene" },
+      { "nom": "Bioderma" },
+      { "nom": "Caudalie" },
+      { "nom": "La Roche Posay" },
+      { "nom": "Nuxe" }
+    ]
+  }
+]
